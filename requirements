@@ -1,0 +1,6 @@
+sounddevice
+numpy
+SpeechRecognition
+pyttsx3
+wikipedia
+wolframalpha
